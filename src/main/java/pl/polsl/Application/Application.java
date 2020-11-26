@@ -23,7 +23,7 @@ import pl.polsl.model.Subject;
  */
 public class Application extends javax.swing.JFrame {
 
-    Controller dataController =  new Controller();
+    Controller dataController =  new Controller("");
     
     /**
      * Creates new form Application

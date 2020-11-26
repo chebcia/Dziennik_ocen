@@ -34,16 +34,22 @@ public class Controller implements DatabaseFileManager {
      /*
      * database - object database
      */
-    private final String databaseFilePath = System.getProperty("user.dir") + "/" + databaseFile;
+    private String databaseFilePath = System.getProperty("user.dir") + "/" ;
 
     /**
      * Constructor
      */
-    public Controller() {
+    public Controller(String dataBaseName) {
         this.checkIfFileExists();
         this.readFileFromXml();
+        if(dataBaseName.endsWith(".xml") && !dataBaseName.startsWith(".xml"))
+            this.databaseFilePath += dataBaseName;
+        else
+            this.databaseFilePath += databaseFile;
     }
 
+    
+    
     /**
      * Constructor
      * @return database 

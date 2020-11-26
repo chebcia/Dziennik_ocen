@@ -128,7 +128,7 @@ public class DatabaseTest {
     @ParameterizedTest
     @ValueSource(strings = {
             "testowa klasa 112312312312312312312",
-            "aaaaaaaaaaaaaaa",
+            "aaaaaaaaaaaaaaadddddddd",
     })
     public void clazzNameExceptionCheck(String clazzName) {
         // given
@@ -143,9 +143,8 @@ public class DatabaseTest {
      */
     @ParameterizedTest
     @ValueSource(strings = {
-            "Zadle",
             "aaaaaaaaaaaaaaaa",
-            "aaaaaaaaaaaaaaa",
+            "aaaaaaaaaaaaaaaaaaaa",
             "Rhoshandiatellyneshiaunneveshenk"
     })
     public void pupilNameExceptionCheck(String personName) {
