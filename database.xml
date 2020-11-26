@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="14.0.1" class="java.beans.XMLDecoder">
+ <object class="pl.polsl.model.Database">
+  <void property="clazzes">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="pl.polsl.model.Clazz">
+      <void property="id">
+       <string>4d8b3541-4c03-4afc-b6f7-e352937b9e52</string>
+      </void>
+      <void property="name">
+       <string>Informatyka</string>
+      </void>
+      <void property="pupils">
+       <object class="java.util.ArrayList">
+        <void method="add">
+         <object class="pl.polsl.model.Person">
+          <void property="id">
+           <string>d4af975d-a69c-444d-a787-ebdda902ffad</string>
+          </void>
+          <void property="name">
+           <string>Natalia</string>
+          </void>
+          <void property="surname">
+           <string>Cheba</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="pl.polsl.model.Person">
+          <void property="id">
+           <string>f819706b-375b-4424-9996-89619b39a179</string>
+          </void>
+          <void property="name">
+           <string>Aukasz</string>
+          </void>
+          <void property="surname">
+           <string>Kocur</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="pl.polsl.model.Person">
+          <void property="id">
+           <string>b1a60c37-c905-4e95-b9a4-0e0c8ebf9650</string>
+          </void>
+          <void property="name">
+           <string>PaweB</string>
+          </void>
+          <void property="surname">
+           <string>RykaBa</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="pl.polsl.model.Person">
+          <void property="id">
+           <string>12b3b121-6414-49e7-a821-bed898085232</string>
+          </void>
+          <void property="name">
+           <string>Agata</string>
+          </void>
+          <void property="surname">
+           <string>Pietrzycka</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="pl.polsl.model.Person">
+          <void property="id">
+           <string>8c7d5734-d4cf-4508-b818-0cf323682361</string>
+          </void>
+          <void property="name">
+           <string>Mateusz</string>
+          </void>
+          <void property="surname">
+           <string>Kulinowski</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="pl.polsl.model.Person">
+          <void property="id">
+           <string>ecf7e582-b59f-4b79-b8fd-ebd4c8035569</string>
+          </void>
+          <void property="name">
+           <string>Tomasz</string>
+          </void>
+          <void property="surname">
+           <string>Maci<char code="#5"/>|ek</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="pl.polsl.model.Person">
+          <void property="id">
+           <string>c9eaeb43-5a22-4e0d-8d8c-a985d5e0686a</string>
+          </void>
+          <void property="name">
+           <string>Natalia</string>
+          </void>
+          <void property="surname">
+           <string>Chebab</string>
+          </void>
+         </object>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Clazz">
+      <void property="id">
+       <string>ac96eae5-4a92-44c7-96e8-8dc4f6c8da0c</string>
+      </void>
+      <void property="name">
+       <string>Makro</string>
+      </void>
+      <void property="pupils">
+       <object class="java.util.ArrayList">
+        <void method="add">
+         <object class="pl.polsl.model.Person">
+          <void property="id">
+           <string>ddcd7ebc-937c-4ae3-8718-12cbfa5a53c6</string>
+          </void>
+          <void property="name">
+           <string>Dawid</string>
+          </void>
+          <void property="surname">
+           <string>Józwiak</string>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="pl.polsl.model.Person">
+          <void property="id">
+           <string>f2f01dbc-83d8-47a2-a91e-1e948f4de05a</string>
+          </void>
+          <void property="name">
+           <string>PaweB</string>
+          </void>
+          <void property="surname">
+           <string>Sanocki</string>
+          </void>
+         </object>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Clazz">
+      <void property="id">
+       <string>cb578f25-0754-4b55-a574-17e2661ae12e</string>
+      </void>
+      <void property="name">
+       <string>Klasa2</string>
+      </void>
+      <void property="pupils">
+       <object class="java.util.ArrayList">
+        <void method="add">
+         <object class="pl.polsl.model.Person">
+          <void property="id">
+           <string>785d81a9-91c1-4d6f-8ce9-8748c3f28e23</string>
+          </void>
+          <void property="name">
+           <string>Natalia</string>
+          </void>
+          <void property="surname">
+           <string>Chebaa</string>
+          </void>
+         </object>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Clazz">
+      <void property="id">
+       <string>a029f91e-2765-470d-9e60-a5d56ca016f3</string>
+      </void>
+      <void property="name">
+       <string>NowaKlasa</string>
+      </void>
+      <void property="pupils">
+       <object class="java.util.ArrayList"/>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Clazz">
+      <void property="id">
+       <string>9eb607b2-39e3-4b45-8e89-7db7cb923dcd</string>
+      </void>
+      <void property="name">
+       <string>Ble</string>
+      </void>
+      <void property="pupils">
+       <object class="java.util.ArrayList"/>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="grades">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="pl.polsl.model.Marks">
+      <void property="classId">
+       <string>4d8b3541-4c03-4afc-b6f7-e352937b9e52</string>
+      </void>
+      <void property="id">
+       <string>ae691815-3a27-4908-813c-116840e16fbc</string>
+      </void>
+      <void property="mark">
+       <int>5</int>
+      </void>
+      <void property="pupilId">
+       <string>d4af975d-a69c-444d-a787-ebdda902ffad</string>
+      </void>
+      <void property="subjectId">
+       <string>ef5c5bc9-0c67-4e0c-ad57-8be3a66a76f0</string>
+      </void>
+      <void property="type">
+       <string>Laboratorium1</string>
+      </void>
+      <void property="weight">
+       <int>1</int>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Marks">
+      <void property="classId">
+       <string>4d8b3541-4c03-4afc-b6f7-e352937b9e52</string>
+      </void>
+      <void property="id">
+       <string>5532e85d-5420-48e8-8fae-35471ab30587</string>
+      </void>
+      <void property="mark">
+       <int>5</int>
+      </void>
+      <void property="pupilId">
+       <string>d4af975d-a69c-444d-a787-ebdda902ffad</string>
+      </void>
+      <void property="subjectId">
+       <string>b2090fbe-9b95-419f-b0a8-b59a998a8e62</string>
+      </void>
+      <void property="type">
+       <string>Egzamin</string>
+      </void>
+      <void property="weight">
+       <int>3</int>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Marks">
+      <void property="classId">
+       <string>4d8b3541-4c03-4afc-b6f7-e352937b9e52</string>
+      </void>
+      <void property="id">
+       <string>46fcad78-1244-4980-a691-f493e6b835a3</string>
+      </void>
+      <void property="mark">
+       <int>5</int>
+      </void>
+      <void property="pupilId">
+       <string>f819706b-375b-4424-9996-89619b39a179</string>
+      </void>
+      <void property="subjectId">
+       <string>ef5c5bc9-0c67-4e0c-ad57-8be3a66a76f0</string>
+      </void>
+      <void property="type">
+       <string>Egzamin</string>
+      </void>
+      <void property="weight">
+       <int>3</int>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Marks">
+      <void property="classId">
+       <string>4d8b3541-4c03-4afc-b6f7-e352937b9e52</string>
+      </void>
+      <void property="id">
+       <string>a5fb0007-577e-43d1-a20a-9a7b1b6e1655</string>
+      </void>
+      <void property="mark">
+       <int>3</int>
+      </void>
+      <void property="pupilId">
+       <string>12b3b121-6414-49e7-a821-bed898085232</string>
+      </void>
+      <void property="subjectId">
+       <string>b2090fbe-9b95-419f-b0a8-b59a998a8e62</string>
+      </void>
+      <void property="type">
+       <string>Egzamin</string>
+      </void>
+      <void property="weight">
+       <int>2</int>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Marks">
+      <void property="classId">
+       <string>cb578f25-0754-4b55-a574-17e2661ae12e</string>
+      </void>
+      <void property="id">
+       <string>a483f125-b0d9-46e3-a862-d0d62e1e053e</string>
+      </void>
+      <void property="mark">
+       <int>5</int>
+      </void>
+      <void property="pupilId">
+       <string>785d81a9-91c1-4d6f-8ce9-8748c3f28e23</string>
+      </void>
+      <void property="subjectId">
+       <string>06e9f119-55e2-456a-8cd3-ba32c8adb5c5</string>
+      </void>
+      <void property="type">
+       <string>ry</string>
+      </void>
+      <void property="weight">
+       <int>4</int>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void property="subjects">
+   <object class="java.util.ArrayList">
+    <void method="add">
+     <object class="pl.polsl.model.Subject">
+      <void property="id">
+       <string>ef5c5bc9-0c67-4e0c-ad57-8be3a66a76f0</string>
+      </void>
+      <void property="name">
+       <string>JAVA</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Subject">
+      <void property="id">
+       <string>b2090fbe-9b95-419f-b0a8-b59a998a8e62</string>
+      </void>
+      <void property="name">
+       <string>TM</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Subject">
+      <void property="id">
+       <string>2ddc4b83-c479-4236-877d-c261d7bede7b</string>
+      </void>
+      <void property="name">
+       <string>Statistics</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Subject">
+      <void property="id">
+       <string>3311bd25-172c-4f7c-890a-379f04a07215</string>
+      </void>
+      <void property="name">
+       <string>Polski</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Subject">
+      <void property="id">
+       <string>06e9f119-55e2-456a-8cd3-ba32c8adb5c5</string>
+      </void>
+      <void property="name">
+       <string>Chemia</string>
+      </void>
+     </object>
+    </void>
+    <void method="add">
+     <object class="pl.polsl.model.Subject">
+      <void property="id">
+       <string>e7879a8f-01a7-4aca-9841-14f8c6324c7c</string>
+      </void>
+      <void property="name">
+       <string>Niemiecki</string>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
